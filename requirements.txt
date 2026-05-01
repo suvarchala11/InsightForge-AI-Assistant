@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+openai
+pandas
+python-dotenv
+requests
+pypdf
+fpdf2

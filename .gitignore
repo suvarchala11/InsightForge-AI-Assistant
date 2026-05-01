@@ -1,0 +1,22 @@
+# Secrets
+.env
+All_API_Keys.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+
+.venv/
+.venv-*/
+
+# Local DB artifacts
+backend/insights.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,8 @@
+user_id,age_group,subscription_tier,country,active_days_last_month
+1,18-24,Premium,USA,25
+2,35-44,Basic,UK,12
+3,25-34,Premium,Canada,28
+4,18-24,Basic,USA,5
+5,45-54,Premium,Germany,20
+6,25-34,Standard,USA,15
+7,35-44,Premium,France,22
